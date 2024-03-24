@@ -1,0 +1,29 @@
+body{
+    margin: 50px 100px 50px;
+    /* margin-inline: 40px;
+    margin-top: 30px; */
+}
+.center{
+    text-align: center;
+}
+.plan-title{
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.card{
+    height: 500px;
+    width: 200px;
+    box-shadow: 1px 1px 5px;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+.list-style{
+text-align: left;
+ /* list-style-image: url('https://png.pngtree.com/png-vector/20190411/ourmid/pngtree-vector-forward-icon-png-image_925823.jpg') */
+}
+
+.d-flex{
+    display: flex;
+    gap: 15px;
+}
